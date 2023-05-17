@@ -1,0 +1,16 @@
+PODS:
+  - wlhuiyan (0.1.0)
+
+DEPENDENCIES:
+  - wlhuiyan (from `../`)
+
+EXTERNAL SOURCES:
+  wlhuiyan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wlhuiyan: 860630958b479b2bc6c2224e15a145456bc36dbc
+
+PODFILE CHECKSUM: a88dc426e26565c4bc66c041dd66c646fdef7cfc
+
+COCOAPODS: 1.11.3
